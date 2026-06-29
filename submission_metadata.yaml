@@ -1,0 +1,8 @@
+team_name: Antigravity
+github_repo: https://github.com/Antigravity/Redrob-AI-Ranker
+sandbox_url: http://localhost:8501
+ai_tools_used: Gemini 3.5 Flash via Antigravity Agent for workflow automation and code design
+methodology: |
+  We constructed an optimized keyword-overlap similarity model blending hard requirement matching, experience alignment, service company filtering, and recruiter-engagement metrics.
+  Anomalous 'honeypots' containing mismatched titles/descriptions or impossible career durations are dynamically filtered out.
+  This pipeline runs under 1 minute on a CPU-only environment.
